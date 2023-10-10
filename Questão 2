@@ -1,0 +1,9 @@
+public class Questão2{
+        public static void main (){
+            for(int contador = 1; contador <=20; contador++){
+                System.out.println("Eu gosto de estudar Algoritmo!");
+             
+                
+            }
+        }
+}
